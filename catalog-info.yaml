@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: gee-customer-service
+  description: Date Dec 01
+  annotations:
+    github.com/project-slug: geethdevops/gee-customer-service
+spec:
+  type: service
+  owner: geethdevops
+  lifecycle: experimental
